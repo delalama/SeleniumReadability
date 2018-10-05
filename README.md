@@ -28,4 +28,4 @@ We create the main class from which our PageObjects will extend
 ![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/5.png)
 
 We create our desired PageObject containing the needed elements, usually all the elements
-![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/5.png)
+![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/6.png)
