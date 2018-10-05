@@ -11,9 +11,9 @@ If we do not use PageObject pattern we have this sintax
 ![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/1)
 
 Applying PageObject...
-![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/2.png)
-
-Another example in a little bit more complex automatization instruction
 ![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/3.png)
+
+Another example.
+![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/2.png)
 
 The PageObject pattern is applied in the project, u can navigate to understand it
