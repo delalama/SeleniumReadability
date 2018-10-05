@@ -29,3 +29,5 @@ We create the main class from which our PageObjects will extend
 
 We create our desired PageObject containing the needed elements, usually all the elements
 ![](https://github.com/delalama/SeleniumReadability/blob/master/seleniumExample/6.png)
+
+If you take a look at the upper pics you will see the usage of this.
